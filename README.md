@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **neovim**
 
-- 🤝 I’m looking for help with **LSP lua config on neovim**
+- 🤝 I’m looking for help to setup **LSP with ruby on rails on neovim**
 
 - 💬 Ask me about **Ruby, Ruby on rails, Malagasy language**
 
