@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, Welcome to Faly's github profile</h1>
 <h3 align="center">Frontend & Backend Developer</h3>
 
-<img align="right" width='350' alt='faly' src='https://github.com/RFaly/RFaly/blob/main/baner.gif' />
+<img align="right" width='300' alt='faly' src='https://github.com/RFaly/RFaly/blob/main/baner.gif' />
 
 - 🌱 I’m currently learning **neovim**
 
