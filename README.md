@@ -1,5 +1,5 @@
-<h1 align="center">Hey 👋, Welcome to Faly's github profile</h1>
-<h3 align="center">Frontend & Backend Developer</h3>
+<h1 align="center">Hey 👋, Welcome To Faly's Github Profile</h1>
+<h3 align="center">Frontend & Backend Web Developer</h3>
 
 <img align="right" width='300' alt='faly' src='https://github.com/RFaly/RFaly/blob/main/baner.gif' />
 
